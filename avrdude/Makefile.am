@@ -168,6 +168,8 @@ libavrdude_a_SOURCES = \
 	tpi.h \
 	usbasp.c \
 	usbasp.h \
+	ch341a.c \
+	ch341a.h \
 	usbdevs.h \
 	usb_hidapi.c \
 	usb_libusb.c \
